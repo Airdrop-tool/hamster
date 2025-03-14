@@ -27,6 +27,7 @@ public class Hamster {
 
     private static final String KEY = "hamster.token";
 
+    //
     record Promo(String promoId, Integer keysPerDay) {
     }
 
